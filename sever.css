@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+.picture{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.picture h1{
+    text-align: center;
+    background-color: rgb(92, 230, 37);
+    margin-bottom: 50px;
+}
+.picture1{
+   height:50px;
+   width:50px;
+}
+.picture2{
+       margin-left: 50px;  
+    }
+.picture3{
+    margin-left: 50px;  
+    } 
+.picture4{
+    margin-left: 47px;  
+    } 
+.picture5{ 
+    width: 300px;
+
+   }  
+.picture6{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 300px;
+}
+.picture7{
+    margin-left: 50px;
+    margin-top: 50px;
+   width: 300px;
+   height: 240px;
+}
+.picture8{
+    margin-left: 47px;
+    margin-top: 50px;
+   width: 300px;
+   height: 240px;
+}
+.picture9{
+    margin-top: 50px;
+    width: 300px;
+   height: 240px;
+}
+.picture10{
+    margin-top: 50px;
+    width: 300px;
+   height: 240px;
+   margin-left: 50px;
+}
+.picture11{
+    margin-top: 50px;
+    width: 300px;
+   height: 240px;
+   margin-left: 50px;
+}
+.picture12{
+    margin-top: 50px;
+    width: 300px;
+   height: 240px;
+   margin-left:47px;
+}
+.img{
+        position: relative;
+    }
+.test{
+        position: absolute;
+        top :100px;
+        left: 200px;
+}
+.test1{
+    position: absolute;
+    top :100px;
+    left: 560px;
+}
+.test2{
+    position: absolute;
+    top :100px;
+    right: 570px;
+}
+.test3{
+    position: absolute;
+    top :100px;
+    right: 200px;
+}
+.test4{
+    position: absolute;
+    top:400px;
+    left:180px;
+}
+.test5{
+    position: absolute;
+    top:395px;
+    left:550px;
+}
+.test6{
+    position: absolute;
+    top:395px;
+    right:560px;
+}
+.test7{
+    position: absolute;
+    top:395px;
+    right:210px;
+}
+.test8{
+    position: absolute;
+    top :690px;
+    left: 200px;
+}
+.test9{
+    position: absolute;
+    top :690px;
+    left: 550px;
+}
+.test10{
+    position: absolute;
+    top :690px;
+    right: 550px;
+}
+.book{
+    padding: 10px 20px;
+    background-color: rgb(62, 226, 62);
+    border-radius: 10px;
+    text-decoration-line: none;
+    margin-top: 50px;
+}
+.test11{
+    position: absolute;
+    top :690px;
+    right: 180px;
+}
